@@ -8,11 +8,11 @@ toy_story = media.Movie("Toy Story",
 
 print(toy_story.storyline)
 
-#toy_story.show_trailer()
+toy_story.show_trailer()
 
 movies = [toy_story]
 
 print(media.Movie.VALID_RATINGS)
-#fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies)
 
 
