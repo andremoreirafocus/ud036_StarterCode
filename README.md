@@ -1,7 +1,7 @@
-# Description
+### Description
 Entertainment center is a movie trailer web site that shows information about selected movies.
 
-# Requirements
+####### Requirements
 To be able to run the entertainment center you need to install Python at your machine.
 If you need help installing Python, you can get instructions at https://docs.python.org/3/using/index.html.
 
