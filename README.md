@@ -3,7 +3,7 @@ Entertainment center is a movie trailer web site that shows information about se
 
 # Requirements
 To be able to run the entertainment center you need to install Python at your machine.
-If you need help installing Python , you can get installation instructions at https://docs.python.org/3/using/index.html.
+If you need help installing Python, you can get instructions at https://docs.python.org/3/using/index.html.
 
 # How to run
 To be able to run the entertainment center you will need to download and install the following files at the same folder:
@@ -12,10 +12,10 @@ To be able to run the entertainment center you will need to download and install
 - media.py: the class that enables the movie instantiation.
 After that, you should run python against the entertainment_center.py file as shown below:
 
-  python entertainment_center.py
+  **python entertainment_center.py**
   
 # Usage
-Once you run entertainment_center.py, the movie trailer web site is open at a browser session.
+Once you run **entertainment_center.py**, the movie trailer web site is open at a browser session.
 
 It then displays a poster image and a title for each of the available movies.
 
