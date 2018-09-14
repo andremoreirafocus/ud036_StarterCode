@@ -10,4 +10,7 @@ If you need help installing Python , you can get installation instructions at ht
 
 # How to run
 To be able to run the entertainment center you will need to get the following files:
-- 
+- entertainment_center.py: the main module that starts the web site
+- fresh_tomatoes.py: the render engine for the web site
+- media.py: the class that enables the movie instantiation
+
