@@ -2,13 +2,13 @@ import webbrowser
 
 
 class Movie():
-"""This class creates a movie object that has the following properties:
+    """This class creates a movie object that has the following properties:
         title(string): the movie´s title name
         storyline(string): a brief description of the movie story
         poster_image_url(string): the URL of the poster image file
         trailer_youtube_url(string): the URL of the movie´s youtube trailer         
        
-"""
+    """
 
     def __init__(self, movie_title, movie_storyline, poster_image,
                  trailer_youtube):
@@ -41,6 +41,4 @@ class Movie():
 
         """
         webbrowser.open(self.trailer_youtube_url)
-        
-
         
