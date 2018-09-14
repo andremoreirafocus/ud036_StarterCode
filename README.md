@@ -11,6 +11,7 @@ To be able to run the entertainment center you will need to donwload and install
 - fresh_tomatoes.py: the render engine for the web site
 - media.py: the class that enables the movie instantiation.
 After that, you should run python against the entertainment_center.py file as shown below:
+
   python entertainment_center.py
   
 # Usage
